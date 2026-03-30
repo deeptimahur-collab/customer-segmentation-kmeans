@@ -57,7 +57,11 @@ This project applies K-Means clustering to segment customers based on their purc
 (Add your screenshots here)
 
 Example:
-![Cluster Plot](images/cluster.png)
+<img width="1344" height="960" alt="147945560-dbc083a0-997c-4730-aab7-d6bcc82b40fd" src="https://github.com/user-attachments/assets/912df3bc-fe09-4f4b-8532-e0a52efe72d9" />
+<img width="1344" height="960" alt="147945091-24ba725d-f494-4f65-9389-6eefd2fadb2b" src="https://github.com/user-attachments/assets/055d0e52-e128-4557-8389-69b9917274e8" />
+<img width="1344" height="960" alt="147944967-a179c0b4-8f77-4f23-bd62-dbbe44b05285" src="https://github.com/user-attachments/assets/ea70fb72-51a5-4ce8-a784-20ac12111fd9" />
+<img width="1344" height="960" alt="147945716-2f0c5519-fb87-4953-8827-e090e37d07ee" src="https://github.com/user-attachments/assets/16dd0740-dce6-4a8c-b5d4-576f49b30f60" />
+
 
 ---
 
